@@ -1,3 +1,4 @@
+<!--<a href="https://icons8.com/icon/84710/bootstrap"></a>-->
 
 ![Header](Header.jpg)
 
@@ -33,10 +34,12 @@ Here are some ideas to get you started:
 <b>Here are the languages and frameworks I've worked with:<b>
 
 - 🔭 NODE JS
-- 🌱 HTML 
-- 👯 CSS
-- 🤔 JAVASCRIPT AND JQUERY
-- 💬 BOOTSTRAP
+- <img src="https://img.icons8.com/offices/30/000000/html-filetype.png"/> HTML 
+- <img src="https://img.icons8.com/offices/30/000000/css-filetype.png"/> CSS
+- <img src="https://img.icons8.com/offices/30/000000/js.png"/> JAVASCRIPT AND JQUERY
+- <img src="https://img.icons8.com/windows/32/000000/bootstrap.png"/> BOOTSTRAP
 - 📫 ANGULAR
 - 😄 PHP
 - ⚡ JSON
+
+
