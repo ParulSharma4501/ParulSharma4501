@@ -1,5 +1,5 @@
 
-![Header](Header.jpeg)
+![Header](Header.jpg)
 
 
 <!--
