@@ -36,7 +36,18 @@ LIVE.LAUGH.CODE</i>
 - <img src="https://img.icons8.com/ios/30/000000/angularjs.png"/> ANGULAR
 - <img src="https://img.icons8.com/offices/30/000000/php.png"/> PHP   
 - <img src="https://img.icons8.com/offices/30/000000/json.png"/> JSON
+<hr>
 
+🔭 My Recently Completed Project 
+<br><br>
+HEALTH TRACKER Website - SoftSpot
+Jul 2020 – Aug 2020
+
+Project description: This is a fully developed website which works as a medical health tracker for patients.
+<br>This is basically developed using:<br>
+FRONTEND : Html,Css, Bootstrap,JavaScript,jQuery<br>
+BACK-END : Php, AngularJs,AJAX<br>
+DATABASE : MySQL<br><br>
 <hr>
 
 <b>📫 How to reach me: ...<b><br><br>
