@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<b>Hello!</b>
+<b>Hello! ![gify](gif.gif=30x30)</b>
 <hr>
 <i>My name is Parul Sharma and I'm a budding _Web Developer_.I am from Bathinda,Punjab.<br>
 LIVE.LAUGH.CODE</i>
