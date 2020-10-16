@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <b>Hello! </b>
 <hr>
 <i>My name is Parul Sharma and I'm a budding _Web Developer_.I am from Bathinda,Punjab.<br>
-LIVE.LAUGH.CODE</i>
+LIVE.LAUGH.CODE
+
+</i>
 
 <hr>
 
@@ -38,7 +40,7 @@ LIVE.LAUGH.CODE</i>
 - <img src="https://img.icons8.com/offices/30/000000/json.png"/> JSON
 <hr>
 
-🔭 My Recently Completed Project 
+<i>🔭 My recently completed Project
 <br><br>
 HEALTH TRACKER Website - SoftSpot
 Jul 2020 – Aug 2020
@@ -48,8 +50,11 @@ Project description: This is a fully developed website which works as a medical 
 FRONTEND : Html,Css, Bootstrap,JavaScript,jQuery<br>
 BACK-END : Php, AngularJs,AJAX<br>
 DATABASE : MySQL<br><br>
-<hr>
 
+Link:https://softspot.000webhostapp.com/
+</i>
+
+<hr>
 <b>📫 How to reach me: ...<b><br><br>
   <a href="https://www.linkedin.com/in/parul-sharma-734853190/"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
   <a href="https://www.instagram.com/its_parul_sharma_/">  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
