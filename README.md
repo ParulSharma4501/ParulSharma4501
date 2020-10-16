@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 <b>Here are the languages and frameworks I've worked with:<b>
 
-- 🔭 NODE JS
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> NODE JS
 - <img src="https://img.icons8.com/offices/30/000000/html-filetype.png"/> HTML 
 - <img src="https://img.icons8.com/offices/30/000000/css-filetype.png"/> CSS
 - <img src="https://img.icons8.com/offices/30/000000/js.png"/> JAVASCRIPT AND JQUERY
 - <img src="https://img.icons8.com/windows/32/000000/bootstrap.png"/> BOOTSTRAP
-- 📫 ANGULAR
-- 😄 PHP
-- ⚡ JSON
+- <img src="https://img.icons8.com/ios/50/000000/angularjs.png"/> ANGULAR
+- <img src="https://img.icons8.com/offices/30/000000/php.png"/> PHP
+- <img src="https://img.icons8.com/offices/30/000000/json.png"/> JSON
 
 
