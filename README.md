@@ -16,3 +16,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<b>Hello!</b>
+<hr>
+<i>My name is Parul Sharma and I'm a budding _Web Developer_.I am from Bathinda,Punjab.</i>
+
+
+<i class="fab fa-node"></i>
+<i class="fab fa-html5"></i>
+<i class="fab fa-css3-alt"></i>
+<i class="fab fa-js"></i>
+<i class="fab fa-bootstrap"></i>
+<i class="fab fa-php"></i>
+<i class="fab fa-angular"></i>
+
+<b>Here are the languages and frameworks I've worked with:<b>
+
+- 🔭 NODE JS
+- 🌱 HTML 
+- 👯 CSS
+- 🤔 JAVASCRIPT AND JQUERY
+- 💬 BOOTSTRAP
+- 📫 ANGULAR
+- 😄 PHP
+- ⚡ JSON
