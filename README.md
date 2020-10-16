@@ -1,6 +1,5 @@
-### Hi there 👋
 
-![Header](parullogo3.png)
+![Header](Header.jpeg)
 
 
 <!--
