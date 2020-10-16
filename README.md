@@ -33,11 +33,12 @@ Here are some ideas to get you started:
 - <img src="https://img.icons8.com/offices/30/000000/js.png"/> JAVASCRIPT AND JQUERY
 - <img src="https://img.icons8.com/windows/30/000000/bootstrap.png"/> BOOTSTRAP
 - <img src="https://img.icons8.com/ios/30/000000/angularjs.png"/> ANGULAR
-- <img src="https://img.icons8.com/offices/30/000000/php.png"/> PHP   - <img src="https://img.icons8.com/offices/30/000000/json.png"/> JSON
+- <img src="https://img.icons8.com/offices/30/000000/php.png"/> PHP   
+- <img src="https://img.icons8.com/offices/30/000000/json.png"/> JSON
 
 <hr>
 
 <b>📫 How to reach me: ...<b><br><br>
-  <a href="https://www.linkedin.com/in/parul-sharma-734853190/"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/ ></a>
+  <a href="https://www.linkedin.com/in/parul-sharma-734853190/"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
   <a href="https://www.instagram.com/its_parul_sharma_/">  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
    <a href="https://github.com/ParulSharma4501"> <img src="https://img.icons8.com/cute-clipart/64/000000/github.png"/> </a>
