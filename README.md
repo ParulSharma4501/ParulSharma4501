@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<hr>
+
 <br>
 <b>HeY FoLkS ! </b>
-<hr>
+
 My name is Parul Sharma and I'm a MERN_STACK_Developer_. I am from Bathinda,Punjab.<br>
 <b>LIVE.LAUGH.CODE
   </b>
