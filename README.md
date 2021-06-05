@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 <b>HeY FoLkS ! </b>
-<br>
+<br><br>
 My name is Parul Sharma and I'm a MERN_STACK_Developer_.
 <br>I am from Bathinda,Punjab.<br>
 <b>LIVE.LAUGH.CODE
