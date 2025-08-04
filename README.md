@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br><br>
-
 # 👋 Hey, I'm Parul
 
-I’m a **Data Engineer** specializing in building **scalable, efficient, and reliable data pipelines** that empower organizations to make data‑driven decisions.  
-I focus on **ETL/ELT development, cloud‑based data architectures, and workflow orchestration** to deliver analytics‑ready datasets.
+I’m a **Data Engineer** specializing in building **scalable, efficient, and reliable data pipelines** that empower organizations to make data‑driven decisions. I focus on **ETL/ELT development, cloud‑based data architectures, and workflow orchestration** to deliver analytics‑ready datasets.
 
 ---
 
