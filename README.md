@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <br><br>
 
 <h2>👋 Hi, I'm <b>Parul Sharma</b></h2>
