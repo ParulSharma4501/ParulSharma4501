@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <br><br>
 
-# 👋 Hi, I'm Parul Sharma
+# 👋 Hey, I'm Parul
 
 I’m a **Data Engineer** specializing in building **scalable, efficient, and reliable data pipelines** that empower organizations to make data‑driven decisions.  
 I focus on **ETL/ELT development, cloud‑based data architectures, and workflow orchestration** to deliver analytics‑ready datasets.
@@ -32,7 +32,7 @@ I focus on **ETL/ELT development, cloud‑based data architectures, and workflow
 
 ### 🔹 My Core Skills
 - **Languages:** Python, SQL, C#, Java 
-- **Data Processing:** Apache Airflow, Pandas  
+- **Data Processing:** Apache Spark, Airflow, Pandas  
 - **Cloud & Big Data:** AWS (S3, Glue, Lambda, Redshift)  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Version Control:** Git, GitHub  
