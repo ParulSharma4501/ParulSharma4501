@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hey there, I'm Parul Sharma
+# 👋 Hey there, I'm Parul
 
 I'm a **Data Engineer** passionate about building scalable, efficient, and reliable data systems that fuel data-driven decisions. With hands-on experience in **ETL/ELT development**, **cloud-based data architectures**, and **data orchestration**, I specialize in processing and transforming large volumes of data with performance and precision.
 
-I focus on creating pipelines that not only work — but scale and last.
+I focus on creating pipelines that not only work - but scale and last.
 
 ---
 
@@ -49,15 +49,6 @@ I focus on creating pipelines that not only work — but scale and last.
 
 ---
 
-## 🚀 Projects
-
-- **5G VPC Flow Logs Analysis** – Built an anomaly detection model to identify potential firewall attacks from log patterns.
-- **Breaking News Personalization on AWS** – Created a real-time news personalization engine using Generative AI and AWS Lambda.
-- **Wind & Solar Forecasting Product** – Developed ML models to forecast weather patterns for better decision-making in energy systems.
-- **IoT Data Ingestion Platform** – Built a unified ingestion platform using Kafka, APIs, FTP to support multiple downstream applications.
-
----
-
 ## 🧠 Certifications
 
 - 🧩 Databricks Certified Data Engineer Associate  
@@ -72,4 +63,4 @@ I focus on creating pipelines that not only work — but scale and last.
 
 ---
 
-> *“Do. Or do not. There is no try.” — Yoda*
+> *“Do. Or do not. There is no try.” - Yoda*
